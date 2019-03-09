@@ -15,7 +15,7 @@ Lalu run di browser dengan mengetikkan:
 localhost/biodata.php
 
 [Soal Nomor 2 - 5]
-Menggunakan DEV C++
+Menggunakan DEV C++ </br>
 isPasswordValid.c -> Nomor 2
 belahKetupat.c -> Nomor 3
 hitungKembalian -> Nomor 4
